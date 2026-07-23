@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0303-range-sum-query-immutable) |
+| [1732-find-the-highest-altitude](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1732-find-the-highest-altitude) |
 ## Design
 |  |
 | ------- |
@@ -13,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0303-range-sum-query-immutable) |
+| [1732-find-the-highest-altitude](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
