@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1732-find-the-highest-altitude) |
 ## Design
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
@@ -26,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0523-continuous-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
