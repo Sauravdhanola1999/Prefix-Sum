@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1732-find-the-highest-altitude) |
 ## Design
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -38,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0523-continuous-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
