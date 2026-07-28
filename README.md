@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1732-find-the-highest-altitude) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1732-find-the-highest-altitude) |
@@ -36,15 +38,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
