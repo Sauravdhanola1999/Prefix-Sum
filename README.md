@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
+| [1109-corporate-flight-bookings](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/0930-binary-subarrays-with-sum) |
+| [1109-corporate-flight-bookings](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sauravdhanola1999/Prefix-Sum/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
