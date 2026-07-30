@@ -1,25 +1,20 @@
 class Solution {
     public int[] corpFlightBookings(int[][] bookings, int n) {
-
-        int[] diff = new int[n];
-
-        for (int[] booking : bookings) {
-
-            int first = booking[0] - 1;
-            int last = booking[1] - 1;
-            int seats = booking[2];
-
-            diff[first] += seats;
-
-            if (last + 1 < n) {
-                diff[last + 1] -= seats;
-            }
+        int[] diff = new int[n+2];
+        int[] result = new int[n];
+        for(int[] book:bookings){
+           int start = book[0];
+            int end = book[1];
+            int seat = book[2];
+            diff[start]+=seat;
+            diff[end+1]-=seat;
         }
 
-        for (int i = 1; i < n; i++) {
-            diff[i] += diff[i - 1];
+        int cumSum =0;
+        for(int i=1; i<=n; i++){
+            cumSum+=diff[i];
+            result[i-1]=cumSum;
         }
-
-        return diff;
+        return result;
     }
 }
